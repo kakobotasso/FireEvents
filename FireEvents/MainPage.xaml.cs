@@ -17,5 +17,22 @@ namespace FireEvents
         {
             InitializeComponent();
         }
+
+        async void OnButton01Clicked(object sender, System.EventArgs e)
+        {
+            Console.WriteLine("Button 01 clicked");
+        }
+
+        async void OnButton02Clicked(object sender, System.EventArgs e)
+        {
+            Console.WriteLine("Button 02 clicked");
+        }
+
+        async void OnButton03Clicked(object sender, System.EventArgs e)
+        {
+            Console.WriteLine("Button 03 clicked");
+        }
     }
+
+
 }
