@@ -193,3 +193,4 @@ UpgradeLog*.htm
 FakesAssemblies/
 
 google-services.json
+GoogleService-Info.plist
